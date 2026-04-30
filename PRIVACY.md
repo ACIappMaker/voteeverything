@@ -1,83 +1,79 @@
-# Privacy Policy
+# Zásady ochrany osobních údajů
 
-**VoteEverything**
-Version 1.1 – Effective April 30, 2026
+**Poslední aktualizace:** 30. dubna 2026
 
----
+**Provozovatel:** Jakub Konečný (VoteEverything)
 
-## 1. Introduction
+Ahoj! Děkujeme, že používáš **VoteEverything** – mobilní aplikaci pro vytváření anket, hlasování a komunitní diskuse.
 
-Thank you for using the **VoteEverything** app. Your privacy is important to us. This Privacy Policy describes what information we collect, how we use it, and how we protect it.
-
----
-
-## 2. Data collected
-
-**Data you provide us with:**
-- Email address
-- Name / nickname (optional)
-- Phone number (optional)
-- Profile photo (avatar)
-- Content of chat messages
-
-**Automatically collected data:**
-- Unique user ID
-- Device information (type, OS version)
-- Application usage data (anonymized)
+Tento dokument ti vysvětluje, jaké údaje sbíráme, proč je používáme a jaká máš práva.
 
 ---
 
-## 3. Purpose of data processing
+## 1. Jaké údaje sbíráme?
 
-- Provision of application services (voting, chats, surveys)
-- User account management
-- Communication with the application administrator
-- Application improvement and prevention of abuse
-- Usage statistics (anonymized)
+### Údaje, které nám poskytneš:
+- E-mailová adresa (při registraci / přihlášení)
+- Jméno nebo uživatelské jméno
+- Obsah anket a komentářů, které vytvoříš
+- Hlasy v anketách
 
----
+### Údaje sbírané automaticky:
+- Technické údaje zařízení (model, operační systém, verze appky)
+- IP adresa
+- Informace o aktivitě v aplikaci (které ankety navštěvuješ, atd.)
 
-## 4. Data sharing
-
-We **do not** share your data with third parties, except for:
-
-- **Firebase** (Google LLC) – data hosting, authentication and notifications
-- Legal requirements of state authorities
+**Citlivé údaje** (rasa, náboženství, sexuální orientace apod.) **nesbíráme**.
 
 ---
 
-## 5. Security
+## 2. K čemu údaje používáme?
 
-- All data is transmitted encrypted (HTTPS)
-- Access to data is strictly limited
-- We regularly check security measures
-
----
-
-## 6. Your rights
-
-You have the right to:
-- Request access to your personal data
-- Request correction or deletion of data
-- Withdraw consent to processing
-- Request export of data
-
-To exercise your rights, please contact: **aminisamu@gmail.com**
+- Provozování a zlepšování aplikace
+- Vytváření a zobrazování anket a komentářů
+- Komunikaci s tebou (důležité upozornění, obnova hesla)
+- Zabraňování zneužívání (spam, podvody)
+- Analýzu používání appky (anonymně)
 
 ---
 
-## 7. Contact
+## 3. Sdílíme údaje s někým?
 
-**Operator:**
-VoteEverything
-Email: **aminisamu@gmail.com**
+**Ne.**  
+Tvé údaje nesdílíme s žádnými třetími stranami pro marketing ani prodej.
 
----
-
-## 8. Policy changes
-
-Any changes will be announced in the application and on this page.
+Sdílíme je pouze v těchto případech:
+- S Google Play (pouze pro platby, pokud někdy budou)
+- S právními orgány, pokud to nařídí zákon
+- Při prodeji firmy (velmi hypotetické)
 
 ---
 
-*Last updated: April 30, 2026*
+## 4. Jak dlouho údaje uchováváme?
+
+Dokud máš účet + ještě nějakou dobu po smazání (kvůli právním povinnostem a bezpečnosti). Můžeš kdykoliv požádat o smazání.
+
+---
+
+## 5. Tvá práva
+
+Můžeš kdykoliv:
+- Požádat o přístup ke svým údajům
+- Požádat o opravu nebo smazání
+- Omezit zpracování
+- Odvolat souhlas
+
+Stačí napsat na: **aminisamu@gmail.com**
+
+---
+
+## 6. Kontakt
+
+**Jakub Konečný**  
+VoteEverything  
+Křížkovského 457/18, Hradec Králové 500 04, Česko  
+E-mail: aminisamu@gmail.com
+
+---
+
+Tento dokument byl vytvořen s pomocí Termly a ručně upraven pro naši aplikaci.
